@@ -63,7 +63,7 @@
 			<plugin>
 			<groupId>org.apache.maven.plugins </groupId>
 			<artefatoId>maven-resources-plugin</artefatoId>
-			<versão > 3.1.0 </versão>
+			<versão>3.1.0 </versão>
 			</plug-in>
 
 		</plugins>
